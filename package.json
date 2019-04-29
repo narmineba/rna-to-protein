@@ -1,0 +1,12 @@
+{
+  "name": "rna-to-protein",
+  "version": "1.0.1",
+  "description": "This a context free grammar that parse an RNA sequence into proteins",
+  "main": "rna-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Narmine Ben Aissa",
+  "license": "ISC"
+}
